@@ -1,8 +1,4 @@
-'''
-Created on Apr 21, 2017
 
-@author: Amarnath
-'''
 
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel as LDA
