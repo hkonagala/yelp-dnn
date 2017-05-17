@@ -1,13 +1,4 @@
-'''
-Build a recommender system for the Yelp dataset.
-* Content-based filtering
-* User-user collaborative filtering
 
-----------
-AUTHOR: CHIA YING LEE
-DATE: 10 APRIL 2015
-----------
-'''
 
 import pandas as pd
 import ast
