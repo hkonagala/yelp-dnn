@@ -1,12 +1,3 @@
-'''
-Transformers for the Yelp data.
-* Column_Selector(colname)
-* One_Hot_Encoder(colname, value_type, sparse = True)
-----------
-AUTHOR: CHIA YING LEE
-DATE: 10 APRIL 2015
-----------
-'''
 
 import numpy as np
 import pandas as pd
